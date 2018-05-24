@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GymAutomation</string>
+    <string name="btn_LoginTxt">LOGIN</string>
+    <string name="txt_Kuladi">User Name</string>
+    <string name="txt_Sifre">Password</string>
+    <string name="placeholder_kuladi">Please Enter Your User Name!</string>
+    <string name="placeholder_sifre">Please Enter Your Password!</string>
+    <string name="placeholder_tcno">Please Enter Your TC Number</string>
+    <string name="switch_tcKontrolTxt">Check it</string>
+    <string name="btn_RegisterTxt">REGISTER</string>
+    <string name="txt_KayitBasarili">Registration Successful</string>
+    <string name="txt_KayitBasarisiz">Recording Failed</string>
+    <string name="uyelik_var">Registered with this TC Number.</string>
+    <string name="tcno_var">This TC Number is correct.</string>
+    <string name="tcno_yok">This TC Number is incorrect.</string>
+    <string name="tcno_uzunluk">Please enter your 11 digit TC number.</string>
+    <string name="kullanici_adi_mevcut">Username already taken.</string>
+    <string name="kuladi_sifre_uzunluk_hata">User name , password can not be empty or 8 characters lower.</string>
+    <string name="kuladi_sifre_hata">Username or password is wrong!</string>
+    <string name="baglanti_hatasi">You are not connected to the Internet.</string>
+    <string name="abonelikler">your subscription</string>
+    <string name="btn_Cikis">Logout</string>
+    <string name="btn_salondakiler">Active Members in Sports Hall</string>
+    <string name="title_activity_subscription">SubscriptionActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tarife_dondur">Deactive Subscription</string>
+    <string name="tarife_aktif_et">Active Subscription</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spor Salonu Otomasyonu</string>
+    <string name="btn_LoginTxt">Giriş Yap</string>
+    <string name="txt_Kuladi">Kullanıcı Adı</string>
+    <string name="txt_Sifre">Parola</string>
+    <string name="placeholder_kuladi">Lütfen Kullanıcı Adınızı Giriniz!</string>
+    <string name="placeholder_sifre">Lütfen Parolanızı Giriniz!</string>
+    <string name="placeholder_tcno">Lütfen TC Numaranızı Giriniz!</string>
+    <string name="switch_tcKontrolTxt">Kontrol Et</string>
+    <string name="btn_RegisterTxt">Kayıt Ol</string>
+    <string name="txt_KayitBasarili">Kayıt Başarılı</string>
+    <string name="txt_KayitBasarisiz">Kayıt Başarısız</string>
+    <string name="uyelik_var">"Bu TC Numarası ile kayıt alınmış. "</string>
+    <string name="tcno_var">Bu TC Numarası doğru.</string>
+    <string name="tcno_yok">Bu TC Numarası yanlış.</string>
+    <string name="tcno_uzunluk">Lütfen 11 haneli TC numaranızı giriniz.</string>
+    <string name="kullanici_adi_mevcut">Kullanıcı adı zaten alınmış.</string>
+    <string name="kuladi_sifre_uzunluk_hata">Kullanıcı adı , şifre boş ya da 8 karakterden aşağı olamaz.</string>
+    <string name="kuladi_sifre_hata">Kullanıcı adı veya şifre hatalı!</string>
+    <string name="baglanti_hatasi">İnternete bağlı değilsiniz.</string>
+    <string name="abonelikler">Abonelikleriniz</string>
+    <string name="btn_Cikis">Çıkış Yap</string>
+    <string name="btn_salondakiler">Spor Salonundaki Aktif Üyeler</string>
+    <string name="next">İLERİ</string>
+    <string name="skip">GEÇ</string>
+    <string name="start">BAŞLAT</string>
+    <string name="tarife_dondur">Tarifeyi Deaktif Et</string>
+    <string name="tarife_aktif_et">Tarifeyi Aktif Et</string>
+</resources>
